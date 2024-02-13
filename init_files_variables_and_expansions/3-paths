@@ -1,2 +1,2 @@
 #!/bin/bash
-read -a directories <<< "$PATH"
+echo $PATH | tr : "\n" | wc -l
