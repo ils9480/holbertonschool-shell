@@ -1,2 +1,3 @@
-#!/bin/bash
-echo $PATH | tr : "\n" | wc -l
+#!/bin/bashs
+'export PATH=/bin::::/home:/usr:::::/home/me ; echo $PATH | tr : $'"'"''"'"''"'"'
+'"'"''"'"''"'"' | grep / | wc -l'
