@@ -1,2 +1,2 @@
-#!/bin/bash
-suedo whoami
+#!bin/bash
+su -c whoami
