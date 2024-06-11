@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '''-rw-r--r--'''
+chmod -R u+x
