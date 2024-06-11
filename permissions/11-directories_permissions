@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  644 
+echo '''-rw-r--r--'''
